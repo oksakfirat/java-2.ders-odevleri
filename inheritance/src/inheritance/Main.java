@@ -11,7 +11,8 @@ public class Main {
 		
 		EmployeeManager employeeManager=new EmployeeManager();
 		CustomerManager customerManager=new CustomerManager();
-		employeeManager.Add();
+		employeeManager.add(employee);
+		customerManager.add(customer);
 
 	}
 
