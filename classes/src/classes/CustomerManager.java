@@ -1,13 +1,13 @@
 package classes;
 
 public class CustomerManager {// classlar referans tutucudurlar.
-	public void Add() {
+	public void add() {
 		System.out.println("Müþteri eklendi");
 	}
-	public void Delete() {
+	public void delete() {
 		System.out.println("Müþteri silindi");
 	}
-	public void Update() {
+	public void update() {
 		System.out.println("Müþteri güncellendi");
 	}
 	
