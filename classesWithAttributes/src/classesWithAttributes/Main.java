@@ -11,7 +11,7 @@ public class Main {
 		product.setStockAmount(4);
 
 		ProductManager productManager = new ProductManager();
-		productManager.Add(product);
+		productManager.add(product);
 
 		System.out.println(product.getKod());
 	}
