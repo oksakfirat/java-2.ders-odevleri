@@ -2,7 +2,7 @@ package inheritanceDemo;
 
 public class BaseKrediManager {
 	
-	public void Hesapla() {
+	public void hesapla() {
 		System.out.println("Kredi hesaplandı.");
 	}
 }
